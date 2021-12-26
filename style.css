@@ -1,0 +1,30 @@
+body {
+    color: rgb(31, 13, 32);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+  }
+  
+  .heading-container {
+    text-align: center;
+    margin-top: 20px;
+    background: linear-gradient(to bottom, #463dbd 0%, #f1eaf1);
+  }
+  
+  .main-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 1em; 
+    padding: 0.5em;
+    margin: 0 auto;
+    background: linear-gradient(to bottom, #463dbd 0%, #afadd3);
+  }
+  
+  .container {
+    padding: 1px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+  
+  }
